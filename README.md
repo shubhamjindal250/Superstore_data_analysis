@@ -128,6 +128,10 @@ Regional analysis showed that some states outperform others in revenue but strug
 
 These insights collectively show a business with strong potential but uneven performance across categories and regions. The story of the data emphasizes the importance of optimizing discount policies, focusing on high‑margin categories, improving regional operations, and strengthening relationships with the most valuable customers.
 
+## ✔ Preview
+<img width="1296" height="722" alt="Screenshot 2025-12-04 144721" src="https://github.com/user-attachments/assets/0e501557-8ce2-44df-971d-f4b4a7c28f24" />
+
+
 ## ✔ Conclusion
 
 The Superstore Sales Analysis project showcases how raw sales data can be transformed into meaningful insights using Power BI. The dashboards provide actionable business intelligence and support strategic decision‑making.
