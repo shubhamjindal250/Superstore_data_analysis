@@ -131,6 +131,13 @@ These insights collectively show a business with strong potential but uneven per
 ## ✔ Preview
 <img width="1296" height="722" alt="Screenshot 2025-12-04 144721" src="https://github.com/user-attachments/assets/0e501557-8ce2-44df-971d-f4b4a7c28f24" />
 
+This repository contains the PBIX file for the Sales Analysis Dashboard.
+
+## How to Use
+1. Download `Superstore_dataset.pbix`
+2. Open in Power BI Desktop (free)
+3. Connect to sample data or load your own
+
 
 ## ✔ Conclusion
 
